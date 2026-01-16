@@ -1,2 +1,1 @@
-var unused = "double quotes"; 
-console.log("missing semicolon") 
+console.log('Now this has single quotes and a semicolon');
